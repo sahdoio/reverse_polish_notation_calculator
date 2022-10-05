@@ -1,6 +1,6 @@
 # Reserve Polish Notation #
 
-* php version: 8,1
+* php version: 8.1.9 
 
 
 ### How do I get set up? ###
@@ -15,7 +15,7 @@
 
 ### How do I the tests? ###
 
-        ./vendor/phpunit
+        ./vendor/bin/phpunit
 
         
 
