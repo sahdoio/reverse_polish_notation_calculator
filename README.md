@@ -13,7 +13,7 @@
 
         php index.php
 
-### How do I the tests? ###
+### How do I run the unit tests? ###
 
         ./vendor/bin/phpunit
 
